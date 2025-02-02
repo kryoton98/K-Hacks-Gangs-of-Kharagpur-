@@ -22,10 +22,6 @@ Development Environment: Node.js<br>
 
 * [Ganache Truffle](https://www.trufflesuite.com/ganache)
 
-3. Download IPFS (kubo)
-
-* [IPFS Kubo](https://dist.ipfs.tech/#go-ipfs)
-
 4.Add Metamask Extension in Browser
 
 * [Metamask Chrome](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en-US)
