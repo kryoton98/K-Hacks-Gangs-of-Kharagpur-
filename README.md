@@ -4,7 +4,6 @@ Technology Used :
 
 Blockchain Technology: Ethereum<br>
 Blockchain Development Tools: Metamask, Ganache<br>
-Decentralized File Storage: IPFS (InterPlanetary File System)<br>
 Smart Contract Development: Solidity<br>
 Frontend Development: ReactJS<br>
 Testing Frameworks: Truffle (for testing Solidity contracts)<br>
