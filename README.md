@@ -22,11 +22,11 @@ Development Environment: Node.js<br>
 
 * [Ganache Truffle](https://www.trufflesuite.com/ganache)
 
-4.Add Metamask Extension in Browser
+3.Add Metamask Extension in Browser
 
 * [Metamask Chrome](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en-US)
 
-5. open cmd in project directory
+4. open cmd in project directory
 
 ```
 npm install --force
